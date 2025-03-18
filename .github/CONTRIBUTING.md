@@ -1,0 +1,1 @@
+直接在 README.md 中添加后发起 PR 即可，二进制文件、笔记等资源欢迎到 [北京工业大学课程资源](https://github.com/bjut-swift/BJUT-Helper) 贡献
