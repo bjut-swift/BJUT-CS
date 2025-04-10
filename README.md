@@ -7,7 +7,7 @@
 
 | 类别 | 地址 | 作者 | 描述 |
 | -------- | ---- | ---- | ---- |
-| 专业课作业 & 笔记 | [BJUT-CS](https://github.com/OldGlycine/BJUT-CS) | 21 届-计科实-高立扬 | 很全，推荐，附有[作者本人的保研经验分享](https://zhuanlan.zhihu.com/p/721669410) |
+| 专业课作业 & 笔记 | [BJUT-CS](https://github.com/OldGlycine/BJUT-CS) | 21 届 - 计科实 - 高立扬 | 很全，推荐，附有[作者本人的保研经验分享](https://zhuanlan.zhihu.com/p/721669410) |
 | 研究生课程 | [软件工程专硕资源](https://github.com/LambChuckEye/2021_winter) | [LambChuckEye](https://github.com/LambChuckEye) | 研一上 |
 
 ## 人工智能
@@ -21,11 +21,17 @@
 To be continued...
 
 ## TODO（等待你的贡献中）
-电子信息、物联网、自动化等
+本仓库收录电子信息、物联网、自动化等专业的内容
 
 ## 贡献方式
 
-直接在 README.md 中添加后发起 PR 即可，二进制文件、笔记等资源欢迎到 [北京工业大学课程资源](https://github.com/bjut-swift/BJUT-Helper) 贡献
+### if 只提供经验分享 :
+
+请在仓库中的 `docs` 文件夹中的对应仓库中新建你的经验分享文档，文件名为 `届-专业-姓名(可选择网名)`，格式建议为 `.md` 以方便阅读。
+
+### else :
+
+直接在 README.md 中的表格对应位置填写你的信息和资源链接即可，二进制文件、笔记等资源推荐自己建仓库存储，同时也欢迎到 [北京工业大学课程资源](https://github.com/bjut-swift/BJUT-Helper) 参与贡献。
 
 ## 免责声明
 
