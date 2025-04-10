@@ -1,5 +1,5 @@
 
-受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。为 [BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper) 的拓展项目，专为计算机相关专业的学习资源进行收录。
+受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发创立了本项目，作为 [BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper) 的拓展项目，专为计算机相关专业的学习资源进行收录。
 
 > 注意：由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 commit 无效。本项目尽可能只做收录链接功能，不收录资源，贡献请直接在 README 中相关区域添加。
 
