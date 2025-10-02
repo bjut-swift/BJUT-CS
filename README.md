@@ -18,7 +18,7 @@
 
 ## 软件工程（注明是否为都院）
 
-To be continued...
+-[都柏林学院软件工程知识库](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
 
 ## TODO（等待你的贡献中）
 本仓库收录电子信息、物联网、自动化等专业的内容
